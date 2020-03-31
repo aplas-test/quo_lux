@@ -1,23 +1,27 @@
 {
-  "id": "quo_lux",
-  "name": "Quo Lux",
-  "categoryId": "core",
-  "description": "Multi-tiered global analyzer",
-  "investment_24m": "621",
-  "hostedtype": "SaaS",
-  "vendor_contact_name": "Tobey Clacson",
-  "licensing_cost": "212",
-  "status_color": "#00FF00",
-  "type": "SaaS",
-  "support_cost": "275",
-  "deployment_date": "30/10/08",
-  "end_of_maintenance": "31/5/17",
-  "department": "Product Management",
-  "status": "Active",
-  "end_of_life": "14/8/19",
-  "vendor_email": "Tobey.Clacson@ConstellationSoftware.com",
-  "months_to_renew_support": "19",
-  "sme_email": "Lenci.Bank@memento.net.au",
-  "vendor_phone": "+45 235 241 1003",
-  "investment_number": "134"
+  "applications": [
+    {
+      "id": "quo_lux",
+      "name": "Quo Lux",
+      "categoryId": "core",
+      "description": "Multi-tiered global analyzer",
+      "investment_24m": "621",
+      "hostedtype": "SaaS",
+      "vendor_contact_name": "Tobey Clacson",
+      "licensing_cost": "212",
+      "status_color": "#00FF00",
+      "type": "SaaS",
+      "support_cost": "275",
+      "deployment_date": "30/10/08",
+      "end_of_maintenance": "31/5/17",
+      "department": "Product Management",
+      "status": "Active",
+      "end_of_life": "14/8/19",
+      "vendor_email": "Tobey.Clacson@ConstellationSoftware.com",
+      "months_to_renew_support": "19",
+      "sme_email": "Lenci.Bank@memento.net.au",
+      "vendor_phone": "+45 235 241 1003",
+      "investment_number": "134"
+    }
+  ]
 }
